@@ -1,5 +1,5 @@
 # Troubleshooting
-This repository contains solutions to some problems Vadym has encountered in his experience
+This repository contains solutions to some problems I has encountered in my experience
 
 # Content
 * [Firefox - "detectportal.firefox.com" keep showing up in the Burp proxy history](./problems_solutions/firefox%20-%20disable%20requests%20for%20Burp.md)
